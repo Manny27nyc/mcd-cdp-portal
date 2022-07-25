@@ -2943,6 +2943,11 @@
   dependencies:
     type-detect "4.0.8"
 
+"@snyk/protect@^1.980.0":
+  version "1.980.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.980.0.tgz#22e14fe1deaab3e2e6ca5282973c2e9b849e268a"
+  integrity sha512-lvGQ4RYo0gBNzUdabYe6r03kXXHsD40IWeajl0ODBFDJQknPadC4TxelIcC/iMuCZQOtdadr4Np7/LEUZeXqjA==
+
 "@svgr/babel-plugin-add-jsx-attribute@^4.2.0":
   version "4.2.0"
   resolved "https://registry.yarnpkg.com/@svgr/babel-plugin-add-jsx-attribute/-/babel-plugin-add-jsx-attribute-4.2.0.tgz#dadcb6218503532d6884b210e7f3c502caaa44b1"
